@@ -1,6 +1,9 @@
 --[[
-Made by NoneScripter
-
+  Made by NoneScripter
+  Steal A Meme (by InterLocked Productions)
+  Instant Lock
+  You can use it on your video as showcase, or anything. Just leave a credit.
+]]--
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
