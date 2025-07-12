@@ -1,6 +1,7 @@
 --[[
   Made by NoneScripter
   Find the Difficulty Faces
+  ESP
   You can use it on your video as showcase, or anything. Just leave a credit.
 ]]--
 
