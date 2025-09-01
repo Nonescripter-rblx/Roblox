@@ -1,4 +1,12 @@
 --[[
+
+
+Broken!
+
+
+
+
+
   Made by NoneScripter
   Steal A Meme (by InterLocked Productions)
   Instant Lock
