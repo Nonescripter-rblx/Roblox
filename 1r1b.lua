@@ -2,6 +2,7 @@
   Made by NoneScripter
   1 robucc = 1 blocc
   Block Spawner
+  You can use it on your video as showcase, or anything. Just leave a credit.
 ]]--
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
