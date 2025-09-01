@@ -15,7 +15,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Rob
 
 ## Secret Staycation
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Roblox/refs/heads/main/SecretStaycation",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Roblox/refs/heads/main/SecretStaycation.lua",true))()
 ```
 
 > if you skid my script, i will **obfuscate** it. Which is hard to run on bad executor.
