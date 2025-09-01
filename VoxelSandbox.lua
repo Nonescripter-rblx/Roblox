@@ -1,3 +1,10 @@
+--[[
+  Made by NoneScripter
+  Voxel Sandbox
+  Trolling menu (Place Nuker)
+  You can use it on your video as showcase, or anything. Just leave a credit.
+]]--
+
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LocalPlayer = Players.LocalPlayer
