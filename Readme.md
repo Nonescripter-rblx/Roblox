@@ -9,17 +9,17 @@ Here's scripts!
 > Patched or broken script will not show up.
 
 ## Voxel Sandbox
-```lua
+```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Roblox/refs/heads/main/VoxelSandbox.lua",true))()
 ```
 
 ## Secret Staycation
-```lua
+```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Roblox/refs/heads/main/SecretStaycation.lua",true))()
 ```
 
 ## 1 robucc = 1 blocc
-```lua
+```luau
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nonescripter-rblx/Roblox/refs/heads/main/1r1b.lua",true))()
 ```
 
